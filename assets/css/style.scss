@@ -1,2 +1,28 @@
 ---
 ---
+
+@import "rouge-github";
+
+a.logo {
+  align-items: center;
+}
+
+.wrapper {
+  margin:0 auto;
+}
+
+section {
+  float: left;
+  max-width: 630px;
+}
+
+header {
+  float: right;
+  margin-bottom: 2em;
+}
+
+@media(max-width: 768px) {
+  section, header {
+    float: none;
+  }
+}

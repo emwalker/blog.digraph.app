@@ -1,0 +1,5 @@
+<div class="recent-posts mt-3">
+  {% for item in site.data.recent-posts.docs %}
+    <h4><a class="link-gray-dark" href="{{ item.url }}">{{ item.title }}</a></h4>
+  {% endfor %}
+</div>
