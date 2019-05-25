@@ -1,65 +1,73 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html>
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{% seo %}
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link href="https://unpkg.com/primer/build/build.css" rel="stylesheet">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <title>Digraph</title>
+    <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
+    <div class="container-lg layout about p-responsive">
+      <div class="pagehead mt-6">
+        <h1>
+          <a class="text-gray-dark no-underline" href="/">
+            <div class="mr-2 d-inline-block primary-logo">
+              {% include logo.svg.html %}
+            </div>
+            Digraph
+          </a>
+        </h1>
+      </div>
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+      <p>
+        Manage links in a mind-map-like network of topics. Tag articles, studies and videos for long-term retrievability.
+        Transform information into knowledge by turning the ephemeral stream things you read every
+        day into a growing collection whose structure makes it easy to navigate and find things.
+      </p>
 
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
+      <h2 class="mt-6">How it works</h2>
+      <p>
+        This video gives a brief intro to Digraph:
+      </p>
 
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
+      <p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Z3WOWikFJGw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </p>
 
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
-      </header>
-      <section>
+      <p>
+        <br/>
+        This is just the tip of the iceberg, and more is in the works.
+      </p>
 
-      {{ content }}
+      <h2 class="mt-6">Getting started</h2>
+      <p>
+        Log in with <a href="/auth/github">Github</a> to get started.  You can also take a look at some of
+        the links and topics that have been added to the public collection <a href="/">here</a>.
+        Links and topics can be public or private.
+      </p>
 
-      </section>
+      <p>
+        Questions or comments?  You can reach me <a href="mailto:eric.walker@gmail.com">here</a>.
+      </p>
+
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <div class="my-6 pt-2 border-top">
+          <p class="mb-2">
+            This software is available for use under the MIT
+            <a href="https://github.com/emwalker/digraph/blob/master/LICENSE.md">license</a>.
+            © Eric Walker.
+          </p>
+        </div>
       </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    {% if site.google_analytics %}
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', '{{ site.google_analytics }}', 'auto');
-      ga('send', 'pageview');
-    </script>
-    {% endif %}
   </body>
 </html>
