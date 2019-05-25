@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: 2019-05-25-the-problem-of-antimicrobial-resistance.html
 ---
 
 # The problem of antimicrobial resistance

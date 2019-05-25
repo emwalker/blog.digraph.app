@@ -27,6 +27,12 @@ byline {
   font-size: smaller;
 }
 
+footer {
+  clear: both;
+  position: relative;
+  height: 100px;
+}
+
 @media(max-width: 768px) {
   section, header {
     float: none;
