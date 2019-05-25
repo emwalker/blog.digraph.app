@@ -4,6 +4,7 @@ permalink: 2019-03-02-about-digraph.html
 ---
 
 # About Digraph
+<byline>Eric Walker, March 2, 2019</byline>
 
 Manage links in a mind-map-like network of topics. Tag articles, studies and videos for long-term retrievability. Transform information into knowledge by turning the ephemeral stream things you read every day into a growing collection whose structure makes it easy to navigate and find things.
 

@@ -3,12 +3,13 @@ layout: default
 ---
 
 # About Digraph
+<byline>Eric Walker, March 2, 2019</byline>
 
 Manage links in a mind-map-like network of topics. Tag articles, studies and videos for long-term retrievability. Transform information into knowledge by turning the ephemeral stream things you read every day into a growing collection whose structure makes it easy to navigate and find things.
 
 ## How it works
 
-This video gives a brief intro to Digraph:
+This video gives a brief intro to [Digraph](https://digraph.app/):
 
 [![Introduction to Digraph](https://img.youtube.com/vi/Z3WOWikFJGw/0.jpg)](https://youtu.be/Z3WOWikFJGw "Introduction to Digraph")
 

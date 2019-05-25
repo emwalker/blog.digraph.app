@@ -21,6 +21,12 @@ header {
   margin-bottom: 2em;
 }
 
+byline {
+  display: block;
+  margin-bottom: 2em;
+  font-size: smaller;
+}
+
 @media(max-width: 768px) {
   section, header {
     float: none;
