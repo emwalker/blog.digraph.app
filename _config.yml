@@ -2,7 +2,7 @@ title: Digraph blog
 logo: /assets/img/logo.png
 description: Manage links in a mind-map like network of topics.
 show_downloads: true
-google_analytics:
+google_analytics: UA-133295563-1
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
