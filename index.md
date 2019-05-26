@@ -144,7 +144,7 @@ them summarize the summaries, some of them reprint the summaries verbatim, and y
 many weeks later.  How do you both keep all those links around, and also make things easy to navigate and
 find later on?  Part of the answer must involve filters of different kinds.  This article was in a quality
 publication, so sort it to the top.  This other article was a reprint of an earlier one, so filter it out
-by default.  None of these or other filters has been added yet, so things are still a little bit messy.
+by default.  None of these or other filters have been added yet, so things are still a little bit messy.
 
 Going through the daily emails from Google, sifting through the articles and putting them up on
 r/DrugResistanceBugs on Reddit has been a useful exercise.  It has helped me to better understand what
