@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: 2019-05-25-the-problem-of-antimicrobial-resistance.html
+title: The problem of antimicrobial resistance
 ---
 
 # The problem of antimicrobial resistance

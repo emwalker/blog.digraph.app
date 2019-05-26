@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: 2019-03-02-about-digraph.html
+title: About Digraph
 ---
 
 # About Digraph

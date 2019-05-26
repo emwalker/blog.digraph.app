@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: 2019-05-26-topics-names-and-synonyms.html
 title: Topics, names and synonyms
 ---
 
