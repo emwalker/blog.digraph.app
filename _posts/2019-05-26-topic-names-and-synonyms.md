@@ -1,10 +1,10 @@
 ---
 layout: default
-permalink: 2019-05-26-topics-names-and-synonyms.html
-title: Topics, names and synonyms
+permalink: 2019-05-26-topic-names-and-synonyms.html
+title: Topic names and synonyms
 ---
 
-# Topics, names and synonyms
+# Topic names and synonyms
 <byline>Eric Walker, May 26, 2019</byline>
 
 As I've used [Digraph](https://digraph.app/) over the past six months, I've noticed several categories

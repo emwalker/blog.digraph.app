@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Topics, names and synonyms
+title: Topic names and synonyms
 ---
 
-# Topics, names and synonyms
+# Topic names and synonyms
 <byline>Eric Walker, May 26, 2019</byline>
 
 As I've used [Digraph](https://digraph.app/) over the past six months, I've noticed several categories
