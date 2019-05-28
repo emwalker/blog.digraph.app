@@ -6,3 +6,4 @@ google_analytics: UA-133295563-1
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
