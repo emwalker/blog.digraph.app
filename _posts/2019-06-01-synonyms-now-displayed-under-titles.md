@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: 2019-06-01-synonyms-now-displayed-under-titles.html
 title: Synonyms now displayed under titles
 ---
 
