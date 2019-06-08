@@ -1,15 +1,15 @@
 ---
 layout: default
-permalink: 2019-06-07-links-to-review-added.html
+permalink: 2019-06-07-links-to-review-section-added.html
 title: Links to review section added
 ---
 
 # "Links to review" section added
 <byline>Eric Walker, June 7, 2019</byline>
 
-During my day job as a software developer, I'll often be waiting for a long-running process to complete.
+During my day job as a software developer, I'll often find myself waiting for a long-running process to complete.
 During such moments I might head over to [Hacker News](https://news.ycombinator.com/) to see what the
-latest headlines are, and a few might catch my attention.  I usually don't have more than a few minutes
+latest headlines are, and two or three might catch my attention.  I usually don't have more than a few minutes
 to skim an article and the comments, but I'll often want to come back to them later on.
 
 To help with this situation, a new section called "Links to review" has been added to
