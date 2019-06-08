@@ -22,6 +22,6 @@ Once you've had a chance to look at the article a little more closely and maybe 
 "reviewed" and remove it from the list.
 
 To get to the new view, you'll need to be signed in.  Once you're signed in, a link will appear at the
-top of the page that will take you to the new view:
+top of the page that will take you there:
 
 <img width="353" alt="Screen Shot 2019-06-07 at 19 20 37" src="https://user-images.githubusercontent.com/760949/59140365-ae3f7600-8959-11e9-8a90-a16e6e1b80b0.png">
