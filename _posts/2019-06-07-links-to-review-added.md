@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: 2019-06-07-links-to-review-added.html
 title: Links to review section added
 ---
 
