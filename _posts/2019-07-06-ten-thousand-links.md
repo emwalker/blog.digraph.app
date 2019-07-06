@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: 2019-07-06-ten-thousands-links.html
 title: Ten thousand links and counting
 ---
 
