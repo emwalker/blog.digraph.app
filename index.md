@@ -18,7 +18,7 @@ How many links would I actually be able to track down again in the future if the
 
 Having 4,219 topics means that topics now dominate Digraph search results, since they appear before links.  Having topics dominate search results is not necessarily a bad thing, because the desired link is often a click or two away when you follow a relevant topic.  But it does mean that if the topics were to increase by an order of magnitude or more, some decent ordering of topics in search results would be needed, in the manner of Google, in order not to be overwhelmed by a sea of slightly relevant topics.
 
-If everyone in the world were to sign up for Digraph and start adding topics of their own, what would the upper bound on the number of topics be?  I think it would be in the neighborhood of some multiple of the number of Wikipedia articles, or the number of people in the world, or the number of genes of scientific interest — so perhaps billions of topics in all.  There would be many technical challenges that would need to be addressed to keep Digraph useful as an app well before it reached that scale.
+If everyone in the world were to sign up for Digraph and start adding topics of their own, what would the upper bound on the number of topics be?  I think it would be in the neighborhood of some multiple of the number of Wikipedia articles, or the number of people in the world, or the number of proteins of scientific interest — so perhaps billions of topics in all.  There would be many technical challenges that would need to be addressed to keep Digraph useful as an app well before it reached that scale.
 
 As one small example, there are now enough topics and links in the system that the topic graph that appears on the home page is no longer useful:
 
