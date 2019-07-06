@@ -22,6 +22,6 @@ If everyone in the world were to sign up for Digraph and start adding topics of 
 
 As one small example, there are now enough topics and links in the system that the topic graph that appears on the home page is no longer useful:
 
-<img class="centered" width="550" alt="Topic graph" src="https://user-images.githubusercontent.com/760949/60759986-be935100-9fea-11e9-8567-f9db40f7452e.png">
+<img class="centered" width="550" alt="Topic graph" src="https://user-images.githubusercontent.com/760949/60760267-d7523580-9fef-11e9-8d38-3a3e0f347412.png">
 
 This graph hints at why the app is called "Digraph" by showing how the topics are organized in a [directed acyclic graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph).  It was originally intended to grab people's attention and give them a sense of how Digraph is keeping track of something subtly interesting and is more than just a directory for links.  But now the topic graph is mostly a blob that is difficult to navigate, and it will only become more of a blob as topics continue to be added. (And it causes the CPU fan to spin up.) So I plan to replace it with an understated landing page before too long.  The landing page will convey in simple terms one way that Digraph might be useful to the reader.  There are several use cases that I'm keeping in mind, which you can read about [here](https://github.com/emwalker/digraph/wiki).
