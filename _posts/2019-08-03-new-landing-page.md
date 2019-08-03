@@ -1,6 +1,7 @@
 ---
 layout: default
 title: New landing page
+permalink: 2019-08-03-new-landing-page.html
 ---
 
 # New landing page
