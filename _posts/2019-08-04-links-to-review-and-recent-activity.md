@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Links to review and recent activity updated
+permalink: 2019-08-04-links-to-review-and-recent-activity-updated.html
 ---
 
 # Links to review and recent activity updated
