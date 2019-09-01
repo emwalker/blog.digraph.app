@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Topics now have date ranges
+permalink: 2019-09-01-topics-now-have-date-ranges.html
 ---
 
 # Topics now have date ranges
