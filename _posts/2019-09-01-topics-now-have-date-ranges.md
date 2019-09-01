@@ -14,7 +14,7 @@ Something I learned from using [Digraph](https://digraph.app/) for a few months 
 - [2019-06 EFSA report on monitoring of antimicrobial resistance
 ](https://digraph.app/wiki/topics/ebd4618d-4381-4802-9a84-8054df61fca0)
 
-In order to capture this ephemerality, I started using a convention of adding prefixes to some topic names to capture the approximate date.  A nice thing about this convention is that the topics with date prefixes sort chronologically, providing an informal timeline.
+In order to capture this dimension of time, I started using a convention of adding prefixes to some topic names to capture the approximate date.  A nice thing about this convention is that the topics with date prefixes sort chronologically, providing an informal timeline.
 
 Eventually I'd like to be able to reconstruct timelines with more precision, and this will require keeping track of the actual dates involved.  As a first step, I've added a new set of form fields to the topic edit form:
 
