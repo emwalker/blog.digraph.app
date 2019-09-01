@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Topics now have date ranges
-permalink: 2019-09-01-topics-now-have-date-ranges.html
+title: Topics now have dates
+permalink: 2019-09-01-topics-now-have-dates.html
 ---
 
-# Topics now have date ranges
+# Topics now have dates
 <byline>Eric Walker, September 1, 2019</byline>
 
 Something I learned from using [Digraph](https://digraph.app/) for a few months that didn't occur to me when I started out is that some of the topics that I want to track are situated in time:
