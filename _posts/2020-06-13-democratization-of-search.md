@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Democratization of search
+permalink: 2020-06-13-democratization-of-search.html
 ---
 
 # Democratization of search

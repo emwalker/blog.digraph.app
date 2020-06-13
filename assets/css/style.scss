@@ -33,6 +33,14 @@ footer {
   height: 100px;
 }
 
+.screenshot {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  display: block;
+  margin: 0 auto;
+  width: 550px;
+}
+
 @media(max-width: 768px) {
   section, header {
     float: none;
