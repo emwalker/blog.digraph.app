@@ -6,7 +6,7 @@ title: Democratization of search
 # Democratization of search
 <byline>Eric Walker, June 13, 2020</byline>
 
-A week or so ago I added the twenty thousandth link to [Digraph](https://digraph.app) since November 2018, when the project had reached the point where it was a useful tool.  Let's take a moment to look at some of the influences that have gone into the effort along with the speculative possibility of the democratization of search that has guided its development.
+A week or so ago I added the twenty-thousandth link to [Digraph](https://digraph.app) since November 2018, when the project had reached the point where it was a useful tool.  Let's take a moment to look at some of the influences that have gone into the effort along with the speculative possibility of the democratization of search that has guided its development.
 
 In 1994, Yahoo launched [a website](https://en.wikipedia.org/wiki/Yahoo!_Directory) that provided [a directory](https://web.archive.org/web/20141122194515/https://dir.yahoo.com/) of links to interesting sites on the World Wide Web (what we now think of as the internet), which was relatively new at the time.  Around the time the Yahoo directory became available, I bought a book that contained listings of links for different web sites together with short descriptions of each site.  Today, with search engines and news aggregators and the billions of links out there, such a book would not be very useful.  At the time, the Yahoo directory was more convenient than the book I had bought because you didn't need to type in the long URLs.
 
