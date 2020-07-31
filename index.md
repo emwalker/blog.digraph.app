@@ -10,7 +10,7 @@ As of about a week ago, it is now possible to search within topics.  To search w
 
 <img class="screenshot" style="width: 400px!important" alt="Screen Shot 2020-07-31 at 4 44 19 PM" src="https://user-images.githubusercontent.com/760949/89083077-1ebf0880-d34d-11ea-8746-6b09a868cd1e.png">
 
-Here is an example of searching for everything related to "Covid-19" and "Proteins," along with the subtopics of those topics:
+Here is an example of searching for everything related to "Covid-19" and "Proteins" and subtopics of those topics:
 
 <img class="screenshot" alt="Screen Shot 2020-07-31 at 4 46 29 PM" src="https://user-images.githubusercontent.com/760949/89083189-6b0a4880-d34d-11ea-9b30-cfed97ced094.png">
 
