@@ -7,7 +7,7 @@ permalink: 2020-07-31-searching-within-topics.html
 # Searching within topics
 <byline>Eric Walker, July 31, 2020</byline>
 
-As of about a week ago, it is now possible to search within topics.  To search within a topic, type "in:" in the search box at the top of the page and begin typing the name of the topic.  Once you see it, you can select it and add it to the search box.  If you type ENTER, the search will run.
+As of about a week ago, it is now possible to search within topics.  To search within a topic, type "in:" in the search box at the [top of the page](https://digraph.app/) and begin typing the name of the topic.  Once you see the topic you're looking for, you can select it and add it to the search box.  If you type ENTER, the search will run.
 
 <img class="screenshot" style="width: 300px!important" alt="Selecting a topic" src="https://user-images.githubusercontent.com/760949/89087565-f259bb00-d351-11ea-8b08-16fa457d098d.png">
 
