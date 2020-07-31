@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Searching within topics
+permalink: 2020-07-31-searching-within-topics.html
 ---
 
 # Searching within topics
