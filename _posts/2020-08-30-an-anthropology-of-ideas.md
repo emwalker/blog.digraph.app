@@ -1,6 +1,7 @@
 ---
 layout: default
 title: An anthropology of ideas
+permalink: 2020-08-30-an-anthropology-of-ideas.html
 ---
 
 # An anthropology of ideas
@@ -27,5 +28,4 @@ We have unexpectedly learned something about how our ideas relate to one another
 As a thought experiment, though, consider a scenario from a science fiction story, where Earth is one of many planets on which life is known to exist.  In this scenario, where life is found on many planets, seeing the subtopic "fish" and its contents appear within a search of the topic "outer space" is not as counter-intuitive as it was before. We might even come around to the idea that this is how the topics should be organized.  This thought experiment suggests the relationships between ideas are relative to the context in which we're using them.  As long as Earth is the only known planet on which life exists, finding subtopics relating to marine within the topic of "outer space" is counter-intuitive.  Once Earth is just one of many planets known to have life, such search results now make more sense and may even be useful.
 
 Discovering the relationships between ideas and the subtleties of those interrelations is part of what makes this amateur anthropological fieldwork enjoyable.
-
 
