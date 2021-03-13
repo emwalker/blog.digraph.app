@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Move to Linode
+permalink: 2021-03-13-move-to-linode.html
 ---
 
 # Move to Linode
