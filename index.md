@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Move to Linode
+title: The move to Linode
 ---
 
-# Move to Linode
+# The move to Linode
 <byline>Eric Walker, March 13, 2021</byline>
 
 Over the last few days I finished moving [Digraph](https://digraph.app/) from DigitalOcean to Linode.  This was a valuable and eye-opening experience for me, and I thought I might go into it a little here.
